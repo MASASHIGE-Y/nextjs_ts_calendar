@@ -52,19 +52,29 @@ https://nextjs-ts-calendar-steel.vercel.app
 
 ### 月表示
 
-<img width="1470" height="802" alt="month" src="https://github.com/user-attachments/assets/559f81e6-d6b3-486c-b8a9-51679f21c183" />
+月単位で予定を管理できます。
+今日の日付にはマークが表示されます。
+
+<img width="1470" height="802" alt="month" src="https://github.com/user-attachments/assets/526f6d8b-7378-4288-ba6d-e5928263aede" />
 
 ### 週表示
 
-<img width="1470" height="802" alt="week" src="https://github.com/user-attachments/assets/46bbb73e-2012-455b-a1bd-66c2f065c883" />
+週単位で予定を確認できます。
 
+<img width="1470" height="802" alt="week" src="https://github.com/user-attachments/assets/d3c9a895-bc79-48aa-ae5c-d7e3b8029d7e" />
 
 ### 予定追加
 
-<img width="1470" height="802" alt="create" src="https://github.com/user-attachments/assets/c8748818-9676-469f-9836-665ffd04b4b1" />
+モーダルを利用して予定を追加できます。（月単位、週単位で可能）
 
+<img width="1470" height="801" alt="createMonth" src="https://github.com/user-attachments/assets/9bf14c5b-7d2d-4a24-9394-d8b7e0a40fff" />
+
+<img width="1470" height="802" alt="create" src="https://github.com/user-attachments/assets/a85175b5-3963-41cb-a062-fbd02b2635d1" />
 
 ### 予定編集
 
-<img width="1470" height="800" alt="edit" src="https://github.com/user-attachments/assets/ea89cdc7-8ded-4fca-9595-bd7096b2d52c" />
+作成した予定は編集・削除できます。（月単位、週単位で可能）
 
+<img width="1470" height="804" alt="editMonth" src="https://github.com/user-attachments/assets/7b45b795-fcee-40b9-b6fa-f5dac17d977a" />
+
+<img width="1470" height="800" alt="edit" src="https://github.com/user-attachments/assets/e3c08926-61a5-4ec1-a2ca-f1d7bece7c8c" />
